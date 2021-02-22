@@ -42,6 +42,32 @@ section {
     font-size: 12px;
 }
 
-#sottolineatura {
+.sottolineatura {
     background-color: rgb(238, 238, 2);
+}
+
+h3 {
+    color: rgb(145, 145, 145);
+    margin-left: 40px;
+}
+
+.foot-img {
+    width: 312px;
+    height: 208px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 40px;
+}
+
+#monitor {
+    background-image: url(img/monitor.jpg);
+    margin-left: 40px;
+
+}
+
+#graph {
+    background-image: url(img/graph.jpg);
+    margin-top: 10px;
+    margin-left: 40px;
 }
