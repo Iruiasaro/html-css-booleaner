@@ -46,6 +46,21 @@ section {
     background-color: rgb(238, 238, 2);
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+thead {
+    background-color: rgb(74, 160, 230);
+    color: rgb(255, 255, 255)
+}
+
+.rigaazzurra {
+    background-color: rgb(123, 176, 219);
+}
+
+
 h3 {
     color: rgb(145, 145, 145);
     margin-left: 40px;
@@ -54,8 +69,8 @@ h3 {
 .foot-img {
     width: 312px;
     height: 208px;
-    color: white;
-    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
     font-weight: 600;
     margin-left: 40px;
 }
@@ -63,7 +78,6 @@ h3 {
 #monitor {
     background-image: url(img/monitor.jpg);
     margin-left: 40px;
-
 }
 
 #graph {
