@@ -41,3 +41,7 @@ section {
 #didascalia {
     font-size: 12px;
 }
+
+#sottolineatura {
+    background-color: rgb(238, 238, 2);
+}
