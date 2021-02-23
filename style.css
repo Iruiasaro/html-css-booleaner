@@ -1,4 +1,4 @@
-*{
+body{
     margin: 0;
     box-sizing: border-box ;
 }
@@ -10,7 +10,7 @@ header{
     background-size: 30%;
 }
 
-.logo{
+#logo{
    height: 50px;
    margin-top: 40px;
    margin-left: 40px;
@@ -54,12 +54,12 @@ table {
 thead {
     background-color: rgb(74, 160, 230);
     background-size: cover;
+    font-weight: bold;
     color: rgb(255, 255, 255)
 }
 
-td{
-    width: 5%;
-
+.w-50 {
+    width: 50%;
 }
 
 .rigaazzurra {
